@@ -4,13 +4,6 @@ A simple and responsive Weather App built with **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📸 Preview
-
-<!-- Add a screenshot link if available -->
-![Weather App Screenshot](#)
-
----
-
 ## 🚀 Features
 
 - 🌍 Search and view weather for any city worldwide.
